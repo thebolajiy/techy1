@@ -1,0 +1,77 @@
+.flix1{
+    background-color: blue;
+    display: flex;
+    /* justify-content: space-around; */
+    justify-content: space-between;
+}
+.flix1 p{
+    color: aliceblue;
+}
+
+.flix2{
+    background-color: green;
+    display: flex;
+    border-bottom-left-radius: 17px;
+    border-bottom-right-radius: 17px;
+    
+}
+.child1{
+    background-color: brown;
+    width: 50%;
+    padding: 4%;
+    border-bottom-left-radius: 17px;
+}
+.child2{
+    /* background-color: purple; */
+    width: 50%;
+    padding: 4%;
+    
+}
+.topdiv{
+    background-color: chartreuse;
+    padding: 4%;
+    border-top-left-radius: 17px;
+    border-top-right-radius: 17px;
+    
+}
+.father{
+    /* background-color: maroon; */
+    width: 60%;
+    
+}
+.btn{
+    width: 80%;
+    padding: 4%;
+    border-radius: 13px;
+    border: none;
+    box-shadow: 2px 4px 5px 2px rgb(90, 87,87);
+    /* right botton sharpness left */
+}
+.basic{
+    background-color: lime;
+    width: 10%;
+    height: 120px;
+    position: fixed;
+    left: 80%;
+    bottom: 5%;
+    border-radius: 17px;
+    box-shadow: 2px 4px 12px;
+}
+
+.basic1{
+    background-color: crimson;
+    color: white;
+    width: 150px;
+    height: 70px;
+    /* margin-bottom: 10%; */
+    position: relative;
+    bottom: 60px;
+}
+.anotherdiv{
+    width: 50%;
+    height: 200px;
+    background-color: orange;
+    position: relative;
+}
+
+

@@ -1,0 +1,66 @@
+#pink_btn{
+    border: palevioletred 2px solid;
+    border-radius: 17px;
+}
+nav{
+    margin-block-end: 10%;
+    
+
+}
+
+.logo{
+    width: 34%;
+}
+.button-pink{
+    background-color: rgb(177, 72, 107);
+    color: white;
+    width: 30%;
+    border-radius: 29px;
+    padding: 2%;
+    border: none;
+}
+
+.firstdiv{
+    text-align: center;
+    margin-block-end: 4%;
+}
+.seconddiv-container{
+    display: flex;
+    justify-content: space-around;
+}
+.seconddiv-container p{
+    font-size: medium;
+}
+.mockup{
+    width: 70%;
+    /* margin-left: 32%; */
+    
+
+}
+.anotherdiv{
+    text-align: center;
+    width:;
+    margin-block-end: 2%;
+
+}
+
+/* DESKTOP FIRST APPROACH */
+@media (max-width: 2560px) {
+  
+}
+@media (max-width: 1200px) {
+	
+}
+@media (max-width: 992px) {	
+	
+}
+@media (max-width: 768px) {
+	
+}
+@media (max-width: 425px) {
+    .seconddiv-container{
+        display: block;
+        text-align: center;
+    }
+
+}
